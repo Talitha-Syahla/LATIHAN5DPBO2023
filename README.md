@@ -50,14 +50,15 @@ Menu tambahan yaitu `Cancel`, jika user menekan tombol ini maka data-data yang a
 ![Jar File](ss_file-jar.png)
 
 ### Insert Data
-![Insert Data](add.png)
+![Insert Data](images/add.png)
 
 ### Update Data
-![Update Data](edit.png)
+![Update Data](imagesedit.png)
 
 ### Delete Data
 
 *Menampilkan pop up confirmation*
-![Delete Data](del1.png)
+![Delete Data](imagesdel1.png)
+
 *Jika option yang dipilih `yes`, data akan terhapus*
-![Delete Data](del2.png)
+![Delete Data](imagesdel2.png)
