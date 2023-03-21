@@ -58,7 +58,9 @@ Menu tambahan yaitu `Cancel`, jika user menekan tombol ini maka data-data yang a
 ### Delete Data
 
 *Menampilkan pop up confirmation*
+
 ![Delete Data](images/del1.png)
 
 *Jika option yang dipilih `yes`, data akan terhapus*
+
 ![Delete Data](images/del2.png)
