@@ -13,9 +13,9 @@ kecurangan seperti yang telah dispesifikasikan. Aamiin.
 File README ini berisikan design program, penjelasan alur program, dan dokumentasi saat program dirun/dijalankan.
 
 # Design Program
-Design pada program disini menggunakan 2 Class, dengan 1 Class utama yaitu `Class Mahasiswa`:
+Design pada program disini menggunakan 2 Class, dengan 1 Class utama yaitu `Class Mahasiswa` :
 
-1) `Class Mahasiswa`, Class ini memiliki atribut:
+1) `Class Mahasiswa`, Class ini memiliki atribut :
     - nim berupa `string`
     - nama berupa `string`
     - nilai berupa `string`
@@ -23,11 +23,11 @@ Design pada program disini menggunakan 2 Class, dengan 1 Class utama yaitu `Clas
 
 Class ini memiliki setter dan getter di dalamnya.
 
-2) `Class Menu`, Class ini berisikan method-method seperti:
+2) `Class Menu`, Class ini berisikan method-method seperti :
     - `setTabel` untuk mengatur tabel yang akan ditampilkan (_DefaultTableModel_)
     - `insertData` untuk menambahkan data mahasiswa (_void_)
-    - `updateData` untuk mengubah data mahasiswa yang dipilih user(_void_)
-    - `deleteData` untuk menghapus data mahasiswa yang dipilih user(_void_)
+    - `updateData` untuk mengubah data mahasiswa yang dipilih user (_void_)
+    - `deleteData` untuk menghapus data mahasiswa yang dipilih user (_void_)
     - `resetForm` untuk mereset tampilan form mejadi default (_void_)
 
 # Design GUI
@@ -53,12 +53,12 @@ Menu tambahan yaitu `Cancel`, jika user menekan tombol ini maka data-data yang a
 ![Insert Data](images/add.png)
 
 ### Update Data
-![Update Data](imagesedit.png)
+![Update Data](images/edit.png)
 
 ### Delete Data
 
 *Menampilkan pop up confirmation*
-![Delete Data](imagesdel1.png)
+![Delete Data](images/del1.png)
 
 *Jika option yang dipilih `yes`, data akan terhapus*
-![Delete Data](imagesdel2.png)
+![Delete Data](images/del2.png)
